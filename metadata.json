@@ -1,0 +1,6 @@
+{
+  "name": "ابحث قبل أن تذهب",
+  "description": "منصة ذكية للبحث عن المنتجات والأسعار وأماكن توفرها في المحلات والصيدليات قبل الخروج من المنزل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
